@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Hunter Siebel",
+    "occupation":"Stanford University",
+    "description":"To comply with Stanford honor code, my work samples are  password protected. Please email me if you would like access",
+    "image":"profilepic.jpg",
+    "bio": "I am a computer science major with a focus in artificial intelligence and a minor in international relations, graduating in 2021. I am hard-working, a faster learner, and work great in a team enviorment. I am eager to learn and expand my professional skills.",
+    "contactmessage":"Please fill out the form below to contact me if you would like to know more about my previous work, expirence, or have any other questions!",
+    "email": "hrsiebel@stanford.edu",
+    "phone": "650-213-6737",
+    "address":{
+      "street":"3000 Portola Road",
+      "city":"Woodside",
+      "state":"California",
+      "zip": "94062"
+    },
+
+    "website": "http://www.timbakerdev.com", 
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/hunter-siebel/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are a few of my most valuable skills",
+    "education":[
+      {
+        "school":"Stanford University (GPA 3.9)",
+        "degree":"Bachelors of Computer Science",
+        "graduated":"Spring 2021",
+        "description":"At Stanford I've learned valuabe project and time management skills. I've also learned how to work independently and have developed excellent problem-solving abilities."
+      },
+      {
+        "school":"London School of Economics",
+        "degree":"Global Politics of Protest and Change",
+        "graduated":"Summer 2018",
+        "description":"My time at the London School of Economics was an enlightening expirence about the politics of social movements and change from an international perspective."
+      },
+      {
+        "school":"Menlo School (GPA 4.0)",
+        "degree":"High School",
+        "graduated":"June 2017",
+        "description":"At Menlo I was involved in the school's community service organization and worked as a peer tutor. I took away great organization, teamwork, and leadership skills from my time at Menlo."
+      }
+    ],
+    "work":[
+      {
+        "company":"C3, Inc.",
+        "title":"Product Management Intern",
+        "years":"Summer 2018",
+        "description":"I created a system to manage the maintenance of lighbulbs for building and factory owners that leveraged IoT and AI technologies. The project was built on the C3 type system using JavaScript and TensorFlow. I also improved and tested new versions of C3's customer training platform."
+      },
+      {
+        "company":"Institute for Stem Cell Biology and Regenerative Medicine at Stanford University",
+        "title":"Research Assistant",
+        "years":"July 2016 - February 2017",
+        "description":"I performed many expirements to explore the lineage of embroyic stem cells that involved  DNA extraction and replication, measuring gene expression, and cell culturing. At the lab I  was responsible for  data analysis, data recording, and ordering of lab supplies for future experiments, which was fundamental for day-to-day lab operations."
+      },
+      {
+        "company":"Stanford Office of Accessible Education",
+        "title":"Notetaker",
+        "years":"Fall 2018",
+        "description":"I transcribed detailed records of lectures and other class information for a variety of subjects, creating an improved body of academic resources for qualifying students. I sumbitted organized and professional notes 4 times a week for the entirety of each course."
+      }
+
+    ],
+    "awards":[
+      {
+        "name":"Academic",
+        "link1": "Menlo School Science Department Academic Award (Advanced Topics Biology",
+        "year1": "2017",
+        "link3": "Research Paper published in Academic Journal Menlo School Roundtable",
+        "year3": "2016",
+        "link2": "AP Scholar with Distinction",
+        "year2": "2017",
+        "description":""
+      },   
+      {
+        "name":"Equestrian",
+        "link1": "Junior Hunter Finals West Grand Champion",
+        "year1": "2017",
+        "link2": "North American Junior Rider Championships team silver",
+        "year2": "2016",
+        "link3": "United States Equestrian Federation National Rank #1",
+        "year3": "2015",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"C",
+        "level":"55%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"RStudio",
+        "level":"40%"
+      },
+      {
+        "name":"Microsoft Office",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"40%"
+      },
+      {
+        "name":"Project Management",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
